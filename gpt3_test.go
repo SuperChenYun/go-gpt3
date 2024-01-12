@@ -10,8 +10,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/PullRequestInc/go-gpt3"
-	fakes "github.com/PullRequestInc/go-gpt3/go-gpt3fakes"
+	"github.com/SuperChenYun/go-gpt3"
+	fakes "github.com/SuperChenYun/go-gpt3/go-gpt3fakes"
 	"github.com/stretchr/testify/assert"
 	"golang.org/x/net/context"
 )
