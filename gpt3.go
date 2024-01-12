@@ -20,6 +20,7 @@ const (
 	TextDavinci001Engine = "text-davinci-001"
 	TextDavinci002Engine = "text-davinci-002"
 	TextDavinci003Engine = "text-davinci-003"
+	GPT35TurboInstruct = "gpt-3.5-turbo-instruct"
 	AdaEngine            = "ada"
 	BabbageEngine        = "babbage"
 	CurieEngine          = "curie"
